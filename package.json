@@ -8,5 +8,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "��#\u0000 \u0000a\u0000d\u0000v\u0000_\u0000w\u0000e\u0000b\u0000t\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PearlKalariya/adv_webt.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/PearlKalariya/adv_webt/issues"
+  },
+  "homepage": "https://github.com/PearlKalariya/adv_webt#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
