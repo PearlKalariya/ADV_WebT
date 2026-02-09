@@ -1,6 +1,6 @@
 import http from 'http';
 import url from 'url';
-import logger from './logger.js';
+import logger from '../server/logger.js';
 
 const server = http.createServer((req, res) => {
   if (req.url === '/favicon.ico') {
@@ -51,3 +51,4 @@ server.listen(PORT, (err, _) => {
 
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
